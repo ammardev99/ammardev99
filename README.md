@@ -1,10 +1,6 @@
 # Hi 👋 I'm Ammar Shafiq
 
-### 🚀 Software Project Manager | SaaS Product Manager | Flutter Developer
-
-<p>
-Delivering Scalable Web & Mobile Products from Idea to Launch
-</p>
+### Software Project Manager | SaaS Product Manager | Flutter Developer
 
 ---
 
@@ -13,21 +9,19 @@ Delivering Scalable Web & Mobile Products from Idea to Launch
 <table width="100%">
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 💼 Management
 
-- Software Project Management
+- Software Projects
 - SaaS Product Management
-- Agile & Scrum
-- SDLC
-- Sprint Planning
+- Agile & Scrum, SDLC
 - Stakeholder Management
 - Team Leadership
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 💻 Development
 
@@ -41,7 +35,7 @@ Delivering Scalable Web & Mobile Products from Idea to Launch
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### ⚙️ Tech Stack
 
@@ -55,9 +49,9 @@ Delivering Scalable Web & Mobile Products from Idea to Launch
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
-### 🎨 Design & Tools
+### 🎨 Designing
 
 - UI/UX Design
 - Figma
@@ -69,24 +63,26 @@ Delivering Scalable Web & Mobile Products from Idea to Launch
 
 </td>
 
+<td valign="top" width="20%">
+
+### 📂 Featured
+
+- Zi_Core
+- QBilling POS
+- SpBuilder
+- Store Pool
+- Nexco Japan
+- River City Estimator
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **Zi_Core** | Scalable Flutter SaaS Architecture |
-| 🛒 **QBilling POS** | Retail & Restaurant SaaS Platform |
-| 🐔 **Poul3y** | Poultry Management SaaS |
-| 🚗 **Nexco Japan** | Vehicle Import & Export Platform |
-| 📈 **River City Estimator** | Construction Estimation Platform |
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect With Me 
 
 <p align="center">
 
