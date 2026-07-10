@@ -1,67 +1,98 @@
-# Hi there 👋 I'm Ammar Shafiq
+# Hi 👋 I'm Ammar Shafiq
 
 ### 🚀 Software Project Manager | SaaS Product Manager | Flutter Developer
-I lead the delivery of scalable web and mobile products from idea to launch.
-With 3+ years of experience in software development and project management, I specialize in managing cross-functional teams, delivering SaaS products, and building scalable Flutter applications for clients worldwide.
 
-## 💼 What I Do
-- 📊 Software Project Management
-- 🚀 SaaS Product Development
-- 📱 Flutter Mobile Applications
-- 🎨 UI/UX Design & Product Planning
-- 📋 Agile, Scrum & SDLC
-- 🤝 Cross-Functional Team Leadership
-- 🏗️ Software Architecture & Technical Planning
+<p>
+Delivering Scalable Web & Mobile Products from Idea to Launch
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Management**
-- Agile
-- Scrum
+## Professional Expertise
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="25%">
+
+### 💼 Management
+
+- Software Project Management
+- SaaS Product Management
+- Agile & Scrum
 - SDLC
-- Product Management
 - Sprint Planning
 - Stakeholder Management
+- Team Leadership
 
-**Development**
+</td>
+
+<td valign="top" width="25%">
+
+### 💻 Development
+
 - Flutter
 - Dart
 - Firebase
 - REST APIs
 - Riverpod
 - GetX
+- Clean Architecture
 
-**Design & Collaboration**
+</td>
+
+<td valign="top" width="25%">
+
+### ⚙️ Tech Stack
+
+- Laravel
+- MERN Stack
+- Firebase
+- MySQL
+- REST APIs
+- Git
+- CI/CD
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🎨 Design & Tools
+
+- UI/UX Design
 - Figma
 - FigJam
-- Git
-- GitHub
 - Postman
 - Trello
 - Notion
+- GitHub
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🚀 Zi_Core — Scalable Flutter SaaS Architecture
-🛒 QBilling POS — Retail & Restaurant SaaS Platform
-🐔 Poul3y — Poultry Management SaaS
-🚗 Nexco Japan — Vehicle Import & Export Platform
-📈 River City Estimator — Construction Estimation Software
+| Project | Description |
+|---------|-------------|
+| 🚀 **Zi_Core** | Scalable Flutter SaaS Architecture |
+| 🛒 **QBilling POS** | Retail & Restaurant SaaS Platform |
+| 🐔 **Poul3y** | Poultry Management SaaS |
+| 🚗 **Nexco Japan** | Vehicle Import & Export Platform |
+| 📈 **River City Estimator** | Construction Estimation Platform |
 
 ---
 
-## 🌍 Let's Connect
+## 🌐 Connect With Me
 
-💼 LinkedIn  
-https://linkedin.com/in/ammardev99
+<p align="center">
 
-🌐 Portfolio  
-https://be.net/AmmarDev99
+<a href="https://www.linkedin.com/in/ammardev99">💼 LinkedIn</a> •
+<a href="https://be.net/AmmarDev99">🎨 Portfolio</a> •
+<a href="mailto:ammardev99@gmail.com">📧 Email</a> •
+<a href="https://wa.me/923424264494">💬 WhatsApp</a>
 
-📧 Email  
-ammardev99@gmail.com
-
-```
+</p>
